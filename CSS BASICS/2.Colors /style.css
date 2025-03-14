@@ -1,0 +1,15 @@
+h1{
+    color: aqua;
+}
+
+h2{
+    color: rgb(255, 0, 255);  /* Rgb - red,green,blue 0-255*/
+}
+
+h3{
+    color: hsl(235, 100%, 47%);   /*hexadecimal - values -> 0-ff */
+}
+
+h4{
+    background-color:hsl(139, 100%, 48%)
+}
