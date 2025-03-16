@@ -1,5 +1,31 @@
+html{
+    font-size: 5em;
+}
+section{
+    width: 500px;
+    height: 500px;
+    background: teal;
+}
+
+
 div{
-    width: 100px;
-    height: 100px;
-    background-color: dodgerblue;
+    width: 50%;
+    height: 100%;
+    background-color: red;
+}
+nav{
+    font-size: 32px;
+    
+}
+nav p{
+    font-size: 2em;
+}
+nav i{
+    font-size: 2rem;
+}
+
+main{
+    width: 50vw;
+    height: 50vh;
+    background-color: teal;
 }
