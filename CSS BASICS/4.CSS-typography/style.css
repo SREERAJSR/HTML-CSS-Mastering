@@ -1,0 +1,11 @@
+h1{
+    text-align: center;  /*align the text content to center*/
+}
+
+p{
+    line-height: 60px; /* heigth  between line by line*/
+    letter-spacing: 10px; /* space between letter*/
+    word-spacing: 40px;  /* space between words*/
+    font-weight: bold; 
+    font-family: monospace;
+}
